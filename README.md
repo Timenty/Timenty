@@ -1,5 +1,8 @@
 ### Hi there 👋
 [![ChocoDevDay](https://rahmet.object.pscloud.io/static/upload/images/segments2/1600682593_902.png)](https://github.com/chocofamilyme)
+
+[![CodeWars](https://www.codewars.com/users/Timenty/badges/large)
+
 <!--
 **Timenty/Timenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
