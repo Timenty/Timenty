@@ -1,5 +1,5 @@
 [![ChocoDevDay](https://rahmet.object.pscloud.io/static/upload/images/segments2/1600682593_902.png)](https://github.com/chocofamilyme)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=Timenty&color=ff69b4)
 
 ![CodeWars](https://www.codewars.com/users/Timenty/badges/large)
 
