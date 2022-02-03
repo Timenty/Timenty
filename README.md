@@ -3,9 +3,9 @@
 
 ![CodeWars](https://www.codewars.com/users/Timenty/badges/large)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Timenty&theme=onedark)](https://github.com/Timenty/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Timenty&theme=dracula)](https://github.com/Timenty/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timenty&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timenty&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **Timenty/Timenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
