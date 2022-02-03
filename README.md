@@ -6,6 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Timenty&theme=dracula)](https://github.com/Timenty/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timenty&count_private=true&show_icons=true&theme=dracula)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
 <!--
 **Timenty/Timenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
